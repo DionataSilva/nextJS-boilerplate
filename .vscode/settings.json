@@ -1,0 +1,25 @@
+{
+  "window.zoomLevel": 1,
+  "git.confirmSync": false,
+  "workbench.iconTheme": "material-icon-theme",
+  "terminal.integrated.rendererType": "dom",
+  "editor.lineHeight": 22,
+  "editor.fontFamily": "Consolas, 'Courier New', monospace",
+  "editor.fontLigatures": true,
+  "editor.rulers": [
+      80,
+      120
+  ],
+  "editor.formatOnSave": false,
+  "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true
+  },
+  "files.autoSave": "onFocusChange",
+  "editor.minimap.enabled": false,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "explorer.confirmDelete": false,
+  "editor.tabSize": 2,
+  "workbench.tree.indent": 10,
+  "workbench.editor.tabCloseButton": "left",
+  "editor.fontWeight": "normal",
+}
